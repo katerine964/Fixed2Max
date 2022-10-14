@@ -1,0 +1,15 @@
+/Users/ekaterinaromanova/Desktop/HomeTasks14.10/SS.2/bin/Debug/net6.0/SS.2
+/Users/ekaterinaromanova/Desktop/HomeTasks14.10/SS.2/bin/Debug/net6.0/SS.2.deps.json
+/Users/ekaterinaromanova/Desktop/HomeTasks14.10/SS.2/bin/Debug/net6.0/SS.2.runtimeconfig.json
+/Users/ekaterinaromanova/Desktop/HomeTasks14.10/SS.2/bin/Debug/net6.0/SS.2.dll
+/Users/ekaterinaromanova/Desktop/HomeTasks14.10/SS.2/bin/Debug/net6.0/ref/SS.2.dll
+/Users/ekaterinaromanova/Desktop/HomeTasks14.10/SS.2/bin/Debug/net6.0/SS.2.pdb
+/Users/ekaterinaromanova/Desktop/HomeTasks14.10/SS.2/obj/Debug/net6.0/SS.2.csproj.AssemblyReference.cache
+/Users/ekaterinaromanova/Desktop/HomeTasks14.10/SS.2/obj/Debug/net6.0/SS.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanova/Desktop/HomeTasks14.10/SS.2/obj/Debug/net6.0/SS.2.AssemblyInfoInputs.cache
+/Users/ekaterinaromanova/Desktop/HomeTasks14.10/SS.2/obj/Debug/net6.0/SS.2.AssemblyInfo.cs
+/Users/ekaterinaromanova/Desktop/HomeTasks14.10/SS.2/obj/Debug/net6.0/SS.2.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanova/Desktop/HomeTasks14.10/SS.2/obj/Debug/net6.0/SS.2.dll
+/Users/ekaterinaromanova/Desktop/HomeTasks14.10/SS.2/obj/Debug/net6.0/ref/SS.2.dll
+/Users/ekaterinaromanova/Desktop/HomeTasks14.10/SS.2/obj/Debug/net6.0/SS.2.pdb
+/Users/ekaterinaromanova/Desktop/HomeTasks14.10/SS.2/obj/Debug/net6.0/SS.2.genruntimeconfig.cache
