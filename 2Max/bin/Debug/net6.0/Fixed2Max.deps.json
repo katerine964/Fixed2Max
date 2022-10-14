@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Fixed2Max/1.0.0": {
+        "runtime": {
+          "Fixed2Max.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fixed2Max/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
